@@ -26,7 +26,15 @@ cd movie-recommender-system
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 📸 Screenshots
 
+### 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+### 🎬 Movie Recommendations
+
+![Movie Recommendations](screenshots/recommendation.png)
 ## Future Improvements
 
 - Add IMDb ratings
